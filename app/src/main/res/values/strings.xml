@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Detoxify</string>
+    <string name="toxicity_detector">Detoxify</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="result">Result</string>
+    <string name="predict">Predict</string>
+    <string name="hmm_looks_like_the_text_is_clean">Hmm, Looks like the text is clean</string>
+</resources>
